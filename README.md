@@ -5,7 +5,8 @@ Notebook ini berisi analisis eksploratif dataset tempat wisata, termasuk visuali
 ## Cara Menjalankan
 Buka di Google Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/username/repo-name/blob/main/notebook.ipynb)
+(https://colab.research.google.com/github/beltsazar1/project_pi_dataMining/blob/main/projrct_pi.ipynb)
+
 
 ## Dataset
 File CSV: `tourism_with_id.csv`  
